@@ -70,3 +70,7 @@ Step 4: View the Result
 Save both the "index.html" and "style.css" files in the same folder and open the "index.html" file in your web browser. You should now see an atom structure with protons, neutrons, and electrons orbiting around the nucleus. The "i" icon will be visible in the bottom center of the page, and clicking on it will show the particle information. The information will be displayed in an overlay with details about the inner shell, outer shell, and nucleus of the atom.
 
 That's it! You've successfully created the HTML and CSS for the given atom structure.
+
+![Title screen](https://github.com/developerrahulofficial/Structure-of-Atom/assets/83329806/b5026aab-6bcc-4ac4-bcb1-450f384609e1)
+
+![Play screen](https://github.com/developerrahulofficial/Structure-of-Atom/assets/83329806/b5026aab-6bcc-4ac4-bcb1-450f384609e1)
